@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Taxisecu17-6-2015", "Taxisecu17-6-2015\Taxisecu17-6-2015.csproj", "{63C8FBCA-0713-4D84-93C6-528B5AC00087}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Taxisecu17-6-2015.UITests", "Taxisecu17-6-2015.UITests\Taxisecu17-6-2015.UITests.csproj", "{B6E78567-399A-42C9-BA70-4A104250F67D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63C8FBCA-0713-4D84-93C6-528B5AC00087}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63C8FBCA-0713-4D84-93C6-528B5AC00087}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63C8FBCA-0713-4D84-93C6-528B5AC00087}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63C8FBCA-0713-4D84-93C6-528B5AC00087}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6E78567-399A-42C9-BA70-4A104250F67D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6E78567-399A-42C9-BA70-4A104250F67D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6E78567-399A-42C9-BA70-4A104250F67D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6E78567-399A-42C9-BA70-4A104250F67D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

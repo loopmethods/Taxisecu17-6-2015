@@ -1,0 +1,4 @@
+Taxisecu1762015.MainActivity, Taxisecu17-6-2015;md5ced6f9a6d3bad0435371792abacc78bc.MainActivity
+Taxisecu1762015.MainActivity, Taxisecu17-6-2015, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5ced6f9a6d3bad0435371792abacc78bc.MainActivity
+Taxisecu1762015.MainActivity;md5ced6f9a6d3bad0435371792abacc78bc.MainActivity
+taxisecu1762015.MainActivity;md5ced6f9a6d3bad0435371792abacc78bc.MainActivity
